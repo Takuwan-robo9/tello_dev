@@ -1,0 +1,18 @@
+# Tello Drone Network Configuration
+# Please fill in the following information for each drone
+
+drones:
+  - name: "Tello-1"  # Drone identifier
+    ssid: "Buffalo-2G-C740"  # WiFi SSID of the drone
+    password: "petutumg44xbb"     # WiFi password
+    sn: "0TQZK8PED02YFL"  # Serial number of the drone
+    ip: "192.168.11.100"          # IP address to assign to the drone (e.g., "192.168.11.100")
+
+  # Add more drones as needed by copying the above format
+
+# Network Settings
+network:
+  subnet: "192.168.11.0/24"  # Network subnet
+  gateway: "192.168.11.1"    # Gateway IP address
+  control_port: 8889        # UDP port for sending commands (default: 8889)
+  state_port: 8890         # UDP port for receiving state (default: 8890)

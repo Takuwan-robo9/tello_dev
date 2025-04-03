@@ -1,0 +1,17 @@
+------
+Drone: 1
+
+id: 0
+command: command
+response: ok
+start time: 2025-04-03 20:20:49.377030
+end_time: 2025-04-03 20:20:49.398559
+duration: 0.021529
+
+id: 1
+command: sn?
+response: 0TQZK8PED02YFL
+start time: 2025-04-03 20:20:57.456261
+end_time: 2025-04-03 20:20:57.518386
+duration: 0.062125
+

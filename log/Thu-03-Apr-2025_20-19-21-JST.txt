@@ -1,0 +1,7812 @@
+------
+Drone: 1
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.997843
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998914
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.058189
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063946
+end_time: None
+duration: None
+
+------
+Drone: 2
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.997863
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998918
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.058282
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063966
+end_time: None
+duration: None
+
+------
+Drone: 3
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.997869
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998920
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.058308
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063985
+end_time: None
+duration: None
+
+------
+Drone: 4
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.997872
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998922
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.058352
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:30.064007
+end_time: None
+duration: None
+
+------
+Drone: 5
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.997882
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998927
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.058377
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:30.064026
+end_time: None
+duration: None
+
+------
+Drone: 6
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.997885
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998929
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.058399
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:30.064042
+end_time: None
+duration: None
+
+------
+Drone: 7
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.997892
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998930
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.058420
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:30.064059
+end_time: None
+duration: None
+
+------
+Drone: 8
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.997895
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998932
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.058439
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:30.064078
+end_time: None
+duration: None
+
+------
+Drone: 9
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.997900
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998933
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.058459
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:30.064095
+end_time: None
+duration: None
+
+------
+Drone: 10
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.997907
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998935
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.058478
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:30.064113
+end_time: None
+duration: None
+
+------
+Drone: 11
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.997910
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998937
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.058497
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:30.064131
+end_time: None
+duration: None
+
+------
+Drone: 12
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.997916
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998939
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.058516
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:30.064148
+end_time: None
+duration: None
+
+------
+Drone: 13
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.997919
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998941
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.058537
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:30.064166
+end_time: None
+duration: None
+
+------
+Drone: 14
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.997924
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998942
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.058557
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:30.064183
+end_time: None
+duration: None
+
+------
+Drone: 15
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.997927
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998945
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.058578
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:30.064200
+end_time: None
+duration: None
+
+------
+Drone: 16
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.997933
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998946
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.058598
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:30.064217
+end_time: None
+duration: None
+
+------
+Drone: 17
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.997935
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998948
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.058618
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:30.064234
+end_time: None
+duration: None
+
+------
+Drone: 18
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.997938
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998950
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.058637
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:30.064250
+end_time: None
+duration: None
+
+------
+Drone: 19
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.997940
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998952
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.058659
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:30.064268
+end_time: None
+duration: None
+
+------
+Drone: 20
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.997945
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998954
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.058679
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:30.064285
+end_time: None
+duration: None
+
+------
+Drone: 21
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.997950
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998956
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.058699
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:30.064301
+end_time: None
+duration: None
+
+------
+Drone: 22
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.997953
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998957
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.058719
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:30.064320
+end_time: None
+duration: None
+
+------
+Drone: 23
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.997958
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998959
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.058740
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:30.064340
+end_time: None
+duration: None
+
+------
+Drone: 24
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.997961
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998960
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.058762
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:30.064357
+end_time: None
+duration: None
+
+------
+Drone: 25
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.997963
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998962
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.058784
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:30.064375
+end_time: None
+duration: None
+
+------
+Drone: 26
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.997971
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998964
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.058806
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:30.064393
+end_time: None
+duration: None
+
+------
+Drone: 27
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.997974
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998965
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.058828
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:30.064410
+end_time: None
+duration: None
+
+------
+Drone: 28
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.997979
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998967
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.058850
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:30.064427
+end_time: None
+duration: None
+
+------
+Drone: 29
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.997984
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998968
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.058871
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:30.064444
+end_time: None
+duration: None
+
+------
+Drone: 30
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.997989
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.050657
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.058893
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:30.064461
+end_time: None
+duration: None
+
+------
+Drone: 31
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.997992
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.050763
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.058923
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:30.064486
+end_time: None
+duration: None
+
+------
+Drone: 32
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.997998
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.050790
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.058944
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:30.064510
+end_time: None
+duration: None
+
+------
+Drone: 33
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998001
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.050812
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.058966
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:30.064529
+end_time: None
+duration: None
+
+------
+Drone: 34
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998006
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.050834
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.058993
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:30.064549
+end_time: None
+duration: None
+
+------
+Drone: 35
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998009
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.050855
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059016
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:30.064567
+end_time: None
+duration: None
+
+------
+Drone: 36
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998011
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.050884
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059041
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:30.064586
+end_time: None
+duration: None
+
+------
+Drone: 37
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998014
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.050909
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059063
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:30.064605
+end_time: None
+duration: None
+
+------
+Drone: 38
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998019
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.050931
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059085
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:30.064624
+end_time: None
+duration: None
+
+------
+Drone: 39
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998033
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.050954
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059108
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:30.064642
+end_time: None
+duration: None
+
+------
+Drone: 40
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998037
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.050976
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059129
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115010
+end_time: None
+duration: None
+
+------
+Drone: 41
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998044
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.050997
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059150
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115072
+end_time: None
+duration: None
+
+------
+Drone: 42
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998047
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051019
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059171
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115093
+end_time: None
+duration: None
+
+------
+Drone: 43
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998054
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051041
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059191
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115111
+end_time: None
+duration: None
+
+------
+Drone: 44
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998061
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051063
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059212
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115128
+end_time: None
+duration: None
+
+------
+Drone: 45
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998063
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051084
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059232
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115162
+end_time: None
+duration: None
+
+------
+Drone: 46
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998068
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051108
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059253
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115185
+end_time: None
+duration: None
+
+------
+Drone: 47
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998073
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051130
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059274
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115207
+end_time: None
+duration: None
+
+------
+Drone: 48
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998079
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051154
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059295
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115230
+end_time: None
+duration: None
+
+------
+Drone: 49
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998081
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051175
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059316
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115253
+end_time: None
+duration: None
+
+------
+Drone: 50
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998086
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051196
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059337
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115275
+end_time: None
+duration: None
+
+------
+Drone: 51
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998088
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051218
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059358
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115297
+end_time: None
+duration: None
+
+------
+Drone: 52
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998094
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051239
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059380
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115320
+end_time: None
+duration: None
+
+------
+Drone: 53
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998099
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051260
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059403
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115341
+end_time: None
+duration: None
+
+------
+Drone: 54
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998101
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051282
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059423
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115369
+end_time: None
+duration: None
+
+------
+Drone: 55
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998110
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051304
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059444
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115393
+end_time: None
+duration: None
+
+------
+Drone: 56
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998114
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051325
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059516
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115415
+end_time: None
+duration: None
+
+------
+Drone: 57
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998122
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051346
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059541
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115437
+end_time: None
+duration: None
+
+------
+Drone: 58
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998125
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051367
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059562
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115463
+end_time: None
+duration: None
+
+------
+Drone: 59
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998128
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051389
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059583
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115485
+end_time: None
+duration: None
+
+------
+Drone: 60
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998130
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051412
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059604
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115508
+end_time: None
+duration: None
+
+------
+Drone: 61
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998135
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051433
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059624
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115529
+end_time: None
+duration: None
+
+------
+Drone: 62
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998139
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051455
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059645
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115550
+end_time: None
+duration: None
+
+------
+Drone: 63
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998142
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051476
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059665
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115572
+end_time: None
+duration: None
+
+------
+Drone: 64
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998148
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051499
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059687
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115594
+end_time: None
+duration: None
+
+------
+Drone: 65
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998150
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051521
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059708
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115615
+end_time: None
+duration: None
+
+------
+Drone: 66
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998153
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051543
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059730
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115637
+end_time: None
+duration: None
+
+------
+Drone: 67
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998155
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051571
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059771
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115675
+end_time: None
+duration: None
+
+------
+Drone: 68
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998160
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051595
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059795
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115700
+end_time: None
+duration: None
+
+------
+Drone: 69
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998166
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051617
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059816
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115722
+end_time: None
+duration: None
+
+------
+Drone: 70
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998169
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051639
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059837
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115744
+end_time: None
+duration: None
+
+------
+Drone: 71
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998171
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051661
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059859
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115765
+end_time: None
+duration: None
+
+------
+Drone: 72
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998176
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051683
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059880
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115787
+end_time: None
+duration: None
+
+------
+Drone: 73
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998181
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051711
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059907
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115815
+end_time: None
+duration: None
+
+------
+Drone: 74
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998184
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051733
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059928
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115837
+end_time: None
+duration: None
+
+------
+Drone: 75
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998189
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051755
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059950
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115858
+end_time: None
+duration: None
+
+------
+Drone: 76
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998192
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051777
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059971
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115879
+end_time: None
+duration: None
+
+------
+Drone: 77
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998197
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051800
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.059993
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115901
+end_time: None
+duration: None
+
+------
+Drone: 78
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998200
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051822
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060014
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115922
+end_time: None
+duration: None
+
+------
+Drone: 79
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998203
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051843
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060036
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115944
+end_time: None
+duration: None
+
+------
+Drone: 80
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998208
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051866
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060058
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115965
+end_time: None
+duration: None
+
+------
+Drone: 81
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998210
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051889
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060081
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.115988
+end_time: None
+duration: None
+
+------
+Drone: 82
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998215
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051911
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060105
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116015
+end_time: None
+duration: None
+
+------
+Drone: 83
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998220
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051934
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060127
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116038
+end_time: None
+duration: None
+
+------
+Drone: 84
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998223
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051956
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060158
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116059
+end_time: None
+duration: None
+
+------
+Drone: 85
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998228
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.051976
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060182
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116080
+end_time: None
+duration: None
+
+------
+Drone: 86
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998231
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052003
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060203
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116102
+end_time: None
+duration: None
+
+------
+Drone: 87
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998234
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052027
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060225
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116123
+end_time: None
+duration: None
+
+------
+Drone: 88
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998239
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052049
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060247
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116144
+end_time: None
+duration: None
+
+------
+Drone: 89
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998241
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052069
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060270
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116166
+end_time: None
+duration: None
+
+------
+Drone: 90
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998246
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052091
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060292
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116190
+end_time: None
+duration: None
+
+------
+Drone: 91
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998251
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052113
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060314
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116213
+end_time: None
+duration: None
+
+------
+Drone: 92
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998254
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052135
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060336
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116234
+end_time: None
+duration: None
+
+------
+Drone: 93
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998259
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052156
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060357
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116255
+end_time: None
+duration: None
+
+------
+Drone: 94
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998261
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052177
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060379
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116276
+end_time: None
+duration: None
+
+------
+Drone: 95
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998268
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052199
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060400
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116297
+end_time: None
+duration: None
+
+------
+Drone: 96
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998273
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052221
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060421
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116319
+end_time: None
+duration: None
+
+------
+Drone: 97
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998275
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052245
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060446
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116340
+end_time: None
+duration: None
+
+------
+Drone: 98
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998280
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052267
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060468
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116361
+end_time: None
+duration: None
+
+------
+Drone: 99
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998286
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052289
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060490
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116384
+end_time: None
+duration: None
+
+------
+Drone: 100
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998288
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052312
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060511
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116406
+end_time: None
+duration: None
+
+------
+Drone: 101
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998291
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052333
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060532
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116427
+end_time: None
+duration: None
+
+------
+Drone: 102
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998296
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052355
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060553
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116449
+end_time: None
+duration: None
+
+------
+Drone: 103
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998301
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052377
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060576
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116471
+end_time: None
+duration: None
+
+------
+Drone: 104
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998303
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052398
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060597
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116492
+end_time: None
+duration: None
+
+------
+Drone: 105
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998308
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052420
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060618
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116513
+end_time: None
+duration: None
+
+------
+Drone: 106
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998310
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052442
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060639
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116534
+end_time: None
+duration: None
+
+------
+Drone: 107
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998313
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052463
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060660
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116555
+end_time: None
+duration: None
+
+------
+Drone: 108
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998318
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052485
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060680
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116576
+end_time: None
+duration: None
+
+------
+Drone: 109
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998321
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052507
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060700
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116597
+end_time: None
+duration: None
+
+------
+Drone: 110
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998326
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052530
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060721
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116618
+end_time: None
+duration: None
+
+------
+Drone: 111
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998329
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052552
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060749
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116640
+end_time: None
+duration: None
+
+------
+Drone: 112
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998334
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052574
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060772
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116660
+end_time: None
+duration: None
+
+------
+Drone: 113
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998336
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052596
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060793
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116684
+end_time: None
+duration: None
+
+------
+Drone: 114
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998339
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052617
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060814
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116706
+end_time: None
+duration: None
+
+------
+Drone: 115
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998344
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052645
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060849
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116735
+end_time: None
+duration: None
+
+------
+Drone: 116
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998347
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052667
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060871
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116757
+end_time: None
+duration: None
+
+------
+Drone: 117
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998352
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052690
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060893
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116778
+end_time: None
+duration: None
+
+------
+Drone: 118
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998355
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052714
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060915
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116799
+end_time: None
+duration: None
+
+------
+Drone: 119
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998360
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052736
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060935
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116820
+end_time: None
+duration: None
+
+------
+Drone: 120
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998362
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052757
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060955
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116841
+end_time: None
+duration: None
+
+------
+Drone: 121
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998365
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052779
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060977
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116862
+end_time: None
+duration: None
+
+------
+Drone: 122
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998372
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052800
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.060998
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116883
+end_time: None
+duration: None
+
+------
+Drone: 123
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998374
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052821
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061021
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116904
+end_time: None
+duration: None
+
+------
+Drone: 124
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998379
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052844
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061043
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116925
+end_time: None
+duration: None
+
+------
+Drone: 125
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998384
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052865
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061065
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116946
+end_time: None
+duration: None
+
+------
+Drone: 126
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998395
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052888
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061086
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116967
+end_time: None
+duration: None
+
+------
+Drone: 127
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998398
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052909
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061108
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.116988
+end_time: None
+duration: None
+
+------
+Drone: 128
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998402
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052931
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061130
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117009
+end_time: None
+duration: None
+
+------
+Drone: 129
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998408
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052953
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061152
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117030
+end_time: None
+duration: None
+
+------
+Drone: 130
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998411
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.052981
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061179
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117057
+end_time: None
+duration: None
+
+------
+Drone: 131
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998413
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053005
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061202
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117079
+end_time: None
+duration: None
+
+------
+Drone: 132
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998418
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053026
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061223
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117106
+end_time: None
+duration: None
+
+------
+Drone: 133
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998424
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053048
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061244
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117129
+end_time: None
+duration: None
+
+------
+Drone: 134
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998426
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053069
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061270
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117152
+end_time: None
+duration: None
+
+------
+Drone: 135
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998429
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053090
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061293
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117173
+end_time: None
+duration: None
+
+------
+Drone: 136
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998433
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053117
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061315
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117194
+end_time: None
+duration: None
+
+------
+Drone: 137
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998438
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053140
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061337
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117215
+end_time: None
+duration: None
+
+------
+Drone: 138
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998441
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053162
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061359
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117237
+end_time: None
+duration: None
+
+------
+Drone: 139
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998446
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053184
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061382
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117257
+end_time: None
+duration: None
+
+------
+Drone: 140
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998449
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053205
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061403
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117279
+end_time: None
+duration: None
+
+------
+Drone: 141
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998454
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053226
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061425
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117301
+end_time: None
+duration: None
+
+------
+Drone: 142
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998457
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053248
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061448
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117323
+end_time: None
+duration: None
+
+------
+Drone: 143
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998459
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053269
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061471
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117344
+end_time: None
+duration: None
+
+------
+Drone: 144
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998464
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053291
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061493
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117365
+end_time: None
+duration: None
+
+------
+Drone: 145
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998466
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053312
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061516
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117387
+end_time: None
+duration: None
+
+------
+Drone: 146
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998469
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053334
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061538
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117408
+end_time: None
+duration: None
+
+------
+Drone: 147
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998474
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053356
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061560
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117429
+end_time: None
+duration: None
+
+------
+Drone: 148
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998477
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053377
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061581
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117450
+end_time: None
+duration: None
+
+------
+Drone: 149
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998482
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053399
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061603
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117472
+end_time: None
+duration: None
+
+------
+Drone: 150
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998485
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053421
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061625
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117493
+end_time: None
+duration: None
+
+------
+Drone: 151
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998487
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053442
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061648
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117515
+end_time: None
+duration: None
+
+------
+Drone: 152
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998493
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053463
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061671
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117537
+end_time: None
+duration: None
+
+------
+Drone: 153
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998495
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053484
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061702
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117559
+end_time: None
+duration: None
+
+------
+Drone: 154
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998500
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053505
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061725
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117581
+end_time: None
+duration: None
+
+------
+Drone: 155
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998503
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053527
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061750
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117645
+end_time: None
+duration: None
+
+------
+Drone: 156
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998508
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053548
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061774
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117668
+end_time: None
+duration: None
+
+------
+Drone: 157
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998512
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053576
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061806
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117696
+end_time: None
+duration: None
+
+------
+Drone: 158
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998514
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053598
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061829
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117718
+end_time: None
+duration: None
+
+------
+Drone: 159
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998517
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053619
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061851
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117740
+end_time: None
+duration: None
+
+------
+Drone: 160
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998531
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053640
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061874
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117761
+end_time: None
+duration: None
+
+------
+Drone: 161
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998534
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053661
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061896
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117783
+end_time: None
+duration: None
+
+------
+Drone: 162
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998536
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053683
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061917
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117804
+end_time: None
+duration: None
+
+------
+Drone: 163
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998539
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053705
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061939
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117825
+end_time: None
+duration: None
+
+------
+Drone: 164
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998543
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053725
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061961
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117846
+end_time: None
+duration: None
+
+------
+Drone: 165
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998548
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053748
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.061984
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117868
+end_time: None
+duration: None
+
+------
+Drone: 166
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998551
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053769
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062007
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117890
+end_time: None
+duration: None
+
+------
+Drone: 167
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998556
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053792
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062051
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117912
+end_time: None
+duration: None
+
+------
+Drone: 168
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998559
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053814
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062075
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117933
+end_time: None
+duration: None
+
+------
+Drone: 169
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998564
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053835
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062099
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117954
+end_time: None
+duration: None
+
+------
+Drone: 170
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998567
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053856
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062121
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117976
+end_time: None
+duration: None
+
+------
+Drone: 171
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998571
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053877
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062144
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.117997
+end_time: None
+duration: None
+
+------
+Drone: 172
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998575
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053898
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062169
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118018
+end_time: None
+duration: None
+
+------
+Drone: 173
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998578
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053920
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062192
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118062
+end_time: None
+duration: None
+
+------
+Drone: 174
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998583
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053941
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062215
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118084
+end_time: None
+duration: None
+
+------
+Drone: 175
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998588
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053963
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062237
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118107
+end_time: None
+duration: None
+
+------
+Drone: 176
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998590
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.053984
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062258
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118129
+end_time: None
+duration: None
+
+------
+Drone: 177
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998595
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054005
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062280
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118151
+end_time: None
+duration: None
+
+------
+Drone: 178
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998598
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054046
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062301
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118172
+end_time: None
+duration: None
+
+------
+Drone: 179
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998600
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054071
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062325
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118194
+end_time: None
+duration: None
+
+------
+Drone: 180
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998603
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054095
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062348
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118215
+end_time: None
+duration: None
+
+------
+Drone: 181
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998608
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054117
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062369
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118236
+end_time: None
+duration: None
+
+------
+Drone: 182
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998617
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054139
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062389
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118263
+end_time: None
+duration: None
+
+------
+Drone: 183
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998619
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054161
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062412
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118285
+end_time: None
+duration: None
+
+------
+Drone: 184
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998624
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054182
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062440
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118307
+end_time: None
+duration: None
+
+------
+Drone: 185
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998629
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054204
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062462
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118329
+end_time: None
+duration: None
+
+------
+Drone: 186
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998631
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054230
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062483
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118350
+end_time: None
+duration: None
+
+------
+Drone: 187
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998636
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054253
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062503
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118371
+end_time: None
+duration: None
+
+------
+Drone: 188
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998639
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054275
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062524
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118393
+end_time: None
+duration: None
+
+------
+Drone: 189
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998642
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054296
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062545
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118414
+end_time: None
+duration: None
+
+------
+Drone: 190
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998644
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054317
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062565
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118436
+end_time: None
+duration: None
+
+------
+Drone: 191
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998656
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054339
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062586
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118458
+end_time: None
+duration: None
+
+------
+Drone: 192
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998659
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054361
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062608
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118479
+end_time: None
+duration: None
+
+------
+Drone: 193
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998661
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054388
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062635
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118512
+end_time: None
+duration: None
+
+------
+Drone: 194
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998664
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054410
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062657
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118536
+end_time: None
+duration: None
+
+------
+Drone: 195
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998670
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054432
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062679
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118556
+end_time: None
+duration: None
+
+------
+Drone: 196
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998675
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054454
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062701
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118578
+end_time: None
+duration: None
+
+------
+Drone: 197
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998677
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054475
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062722
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118600
+end_time: None
+duration: None
+
+------
+Drone: 198
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998680
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054498
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062743
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118622
+end_time: None
+duration: None
+
+------
+Drone: 199
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998686
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054526
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062771
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118649
+end_time: None
+duration: None
+
+------
+Drone: 200
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998688
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054548
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062792
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118671
+end_time: None
+duration: None
+
+------
+Drone: 201
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998693
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054570
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062813
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118693
+end_time: None
+duration: None
+
+------
+Drone: 202
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998695
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054591
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062835
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118714
+end_time: None
+duration: None
+
+------
+Drone: 203
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998698
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054612
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062856
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118735
+end_time: None
+duration: None
+
+------
+Drone: 204
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998703
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054634
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062880
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118756
+end_time: None
+duration: None
+
+------
+Drone: 205
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998705
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054656
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062903
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118778
+end_time: None
+duration: None
+
+------
+Drone: 206
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998711
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054678
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062924
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118799
+end_time: None
+duration: None
+
+------
+Drone: 207
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998713
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054700
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062946
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118820
+end_time: None
+duration: None
+
+------
+Drone: 208
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998716
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054721
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062967
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118842
+end_time: None
+duration: None
+
+------
+Drone: 209
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998719
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054743
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.062990
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118863
+end_time: None
+duration: None
+
+------
+Drone: 210
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998726
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054765
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063012
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118885
+end_time: None
+duration: None
+
+------
+Drone: 211
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998729
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054787
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063035
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118905
+end_time: None
+duration: None
+
+------
+Drone: 212
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998734
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054808
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063058
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118928
+end_time: None
+duration: None
+
+------
+Drone: 213
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998739
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054831
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063080
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118949
+end_time: None
+duration: None
+
+------
+Drone: 214
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998742
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054852
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063101
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118970
+end_time: None
+duration: None
+
+------
+Drone: 215
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998746
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054874
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063121
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.118992
+end_time: None
+duration: None
+
+------
+Drone: 216
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998749
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054894
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063144
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.119013
+end_time: None
+duration: None
+
+------
+Drone: 217
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998751
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054915
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063166
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.119034
+end_time: None
+duration: None
+
+------
+Drone: 218
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998757
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054937
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063190
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.119056
+end_time: None
+duration: None
+
+------
+Drone: 219
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998759
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054958
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063212
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.119077
+end_time: None
+duration: None
+
+------
+Drone: 220
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998764
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.054979
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063234
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.119098
+end_time: None
+duration: None
+
+------
+Drone: 221
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998766
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.055001
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063254
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.119120
+end_time: None
+duration: None
+
+------
+Drone: 222
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998769
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.055022
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063275
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.119141
+end_time: None
+duration: None
+
+------
+Drone: 223
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998776
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.055043
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063296
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.119162
+end_time: None
+duration: None
+
+------
+Drone: 224
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998799
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.055064
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063316
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.119183
+end_time: None
+duration: None
+
+------
+Drone: 225
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998802
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.055086
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063338
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.119205
+end_time: None
+duration: None
+
+------
+Drone: 226
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998804
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.055106
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063360
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.119226
+end_time: None
+duration: None
+
+------
+Drone: 227
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998807
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.055127
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063382
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.119247
+end_time: None
+duration: None
+
+------
+Drone: 228
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998809
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.055149
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063403
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.119268
+end_time: None
+duration: None
+
+------
+Drone: 229
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998812
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.055171
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063424
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.119290
+end_time: None
+duration: None
+
+------
+Drone: 230
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998814
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.055192
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063445
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.119311
+end_time: None
+duration: None
+
+------
+Drone: 231
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998816
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.055214
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063466
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.119333
+end_time: None
+duration: None
+
+------
+Drone: 232
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998821
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.055235
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063487
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.119359
+end_time: None
+duration: None
+
+------
+Drone: 233
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998826
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.055258
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063508
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.119382
+end_time: None
+duration: None
+
+------
+Drone: 234
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998829
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.055279
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063535
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.119403
+end_time: None
+duration: None
+
+------
+Drone: 235
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998834
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.055301
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063558
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.119425
+end_time: None
+duration: None
+
+------
+Drone: 236
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998839
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.055328
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063583
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.119447
+end_time: None
+duration: None
+
+------
+Drone: 237
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998844
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.055351
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063604
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.119468
+end_time: None
+duration: None
+
+------
+Drone: 238
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998847
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.055374
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063626
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.119490
+end_time: None
+duration: None
+
+------
+Drone: 239
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998850
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.055397
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063647
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.119512
+end_time: None
+duration: None
+
+------
+Drone: 240
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998855
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.055419
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063667
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.119534
+end_time: None
+duration: None
+
+------
+Drone: 241
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998861
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.055447
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063694
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.119562
+end_time: None
+duration: None
+
+------
+Drone: 242
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998863
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.055469
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063715
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.119584
+end_time: None
+duration: None
+
+------
+Drone: 243
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998868
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.055490
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063737
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.119606
+end_time: None
+duration: None
+
+------
+Drone: 244
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998874
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.055512
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063757
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.119627
+end_time: None
+duration: None
+
+------
+Drone: 245
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998876
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.055535
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063779
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.119649
+end_time: None
+duration: None
+
+------
+Drone: 246
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998882
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.055557
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063800
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.119670
+end_time: None
+duration: None
+
+------
+Drone: 247
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998884
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.055580
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063820
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.119692
+end_time: None
+duration: None
+
+------
+Drone: 248
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998889
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.055602
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063841
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.119713
+end_time: None
+duration: None
+
+------
+Drone: 249
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998894
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.055624
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063863
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.119734
+end_time: None
+duration: None
+
+------
+Drone: 250
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998901
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.055644
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063883
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.119755
+end_time: None
+duration: None
+
+------
+Drone: 251
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998906
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.055667
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063904
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.119777
+end_time: None
+duration: None
+
+------
+Drone: 252
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 20:19:21.998909
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2025-04-03 20:19:25.055700
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2025-04-03 20:19:30.063924
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2025-04-03 20:19:33.119800
+end_time: None
+duration: None
+
