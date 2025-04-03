@@ -8,6 +8,12 @@ drones:
     sn: "0TQZK8PED02YFL"  # Serial number of the drone
     ip: "192.168.11.100"          # IP address to assign to the drone (e.g., "192.168.11.100")
 
+  - name: "Tello-2"  # Drone identifier
+    ssid: "Buffalo-2G-C740"  # WiFi SSID of the drone
+    password: "petutumg44xbb"     # WiFi password
+    sn: "0TQ3GBG00SS131"  # Serial number of the drone
+    ip: "192.168.11.101"          # IP address to assign to the drone
+
   # Add more drones as needed by copying the above format
 
 # Network Settings

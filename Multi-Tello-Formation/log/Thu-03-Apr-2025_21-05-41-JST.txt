@@ -1,0 +1,134 @@
+------
+Drone: 1
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 21:05:41.897579
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: ok
+start time: 2025-04-03 21:05:41.898278
+end_time: 2025-04-03 21:05:42.007640
+duration: 0.109362
+
+id: 2
+command: battery?
+response: 94
+
+start time: 2025-04-03 21:05:50.016673
+end_time: 2025-04-03 21:05:50.093079
+duration: 0.076406
+
+id: 3
+command: sn?
+response: 0TQZK8PED02YFL
+start time: 2025-04-03 21:05:51.499074
+end_time: 2025-04-03 21:05:51.540364
+duration: 0.04129
+
+id: 4
+command: mon
+response: ok
+start time: 2025-04-03 21:05:53.068370
+end_time: 2025-04-03 21:05:53.160360
+duration: 0.09199
+
+id: 5
+command: takeoff
+response: ok
+start time: 2025-04-03 21:05:53.160462
+end_time: 2025-04-03 21:06:01.890772
+duration: 8.73031
+
+id: 6
+command: go 50 0 80 60 m3
+response: ok
+start time: 2025-04-03 21:06:01.967555
+end_time: 2025-04-03 21:06:08.159631
+duration: 6.192076
+
+id: 7
+command: flip r
+response: ok
+start time: 2025-04-03 21:06:08.292644
+end_time: 2025-04-03 21:06:11.955389
+duration: 3.662745
+
+id: 8
+command: land
+response: ok
+start time: 2025-04-03 21:06:12.001276
+end_time: 2025-04-03 21:06:14.709495
+duration: 2.708219
+
+------
+Drone: 2
+
+id: 0
+command: command
+response: None
+start time: 2025-04-03 21:05:41.897604
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: ok
+start time: 2025-04-03 21:05:41.898295
+end_time: 2025-04-03 21:05:42.055092
+duration: 0.156797
+
+id: 2
+command: battery?
+response: 90
+
+start time: 2025-04-03 21:05:50.006408
+end_time: 2025-04-03 21:05:50.138914
+duration: 0.132506
+
+id: 3
+command: sn?
+response: 0TQ3GBG00SS131
+start time: 2025-04-03 21:05:51.504251
+end_time: 2025-04-03 21:05:51.576413
+duration: 0.072162
+
+id: 4
+command: mon
+response: ok
+start time: 2025-04-03 21:05:53.073544
+end_time: 2025-04-03 21:05:53.144990
+duration: 0.071446
+
+id: 5
+command: takeoff
+response: ok
+start time: 2025-04-03 21:05:53.165618
+end_time: 2025-04-03 21:06:01.941899
+duration: 8.776281
+
+id: 6
+command: go -50 0 80 60 m3
+response: error No valid marker
+start time: 2025-04-03 21:06:01.977779
+end_time: 2025-04-03 21:06:04.136947
+duration: 2.159168
+
+id: 7
+command: flip l
+response: ok
+start time: 2025-04-03 21:06:08.277358
+end_time: 2025-04-03 21:06:11.873909
+duration: 3.596551
+
+id: 8
+command: land
+response: ok
+start time: 2025-04-03 21:06:12.021637
+end_time: 2025-04-03 21:06:15.872006
+duration: 3.850369
+
