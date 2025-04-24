@@ -1,0 +1,120 @@
+------
+Drone: 1
+
+id: 0
+command: command
+response: ok
+start time: 2025-04-24 15:51:03.129182
+end_time: 2025-04-24 15:51:03.184977
+duration: 0.055795
+
+id: 1
+command: battery?
+response: 65
+
+start time: 2025-04-24 15:51:11.249448
+end_time: 2025-04-24 15:51:11.480129
+duration: 0.230681
+
+id: 2
+command: sn?
+response: 0TQZK8PED02YFL
+start time: 2025-04-24 15:51:12.802444
+end_time: 2025-04-24 15:51:12.833157
+duration: 0.030713
+
+id: 3
+command: mon
+response: ok
+start time: 2025-04-24 15:51:14.378083
+end_time: 2025-04-24 15:51:14.532274
+duration: 0.154191
+
+id: 4
+command: takeoff
+response: ok
+start time: 2025-04-24 15:51:14.532409
+end_time: 2025-04-24 15:51:18.536222
+duration: 4.003813
+
+id: 5
+command: go 50 0 80 60
+response: ok
+start time: 2025-04-24 15:51:20.644612
+end_time: 2025-04-24 15:51:23.624569
+duration: 2.979957
+
+id: 6
+command: flip r
+response: ok
+start time: 2025-04-24 15:51:23.920846
+end_time: 2025-04-24 15:51:27.550302
+duration: 3.629456
+
+id: 7
+command: land
+response: ok
+start time: 2025-04-24 15:51:27.596899
+end_time: 2025-04-24 15:51:32.226715
+duration: 4.629816
+
+------
+Drone: 2
+
+id: 0
+command: command
+response: ok
+start time: 2025-04-24 15:51:03.129174
+end_time: 2025-04-24 15:51:03.185061
+duration: 0.055887
+
+id: 1
+command: battery?
+response: 71
+
+start time: 2025-04-24 15:51:11.233972
+end_time: 2025-04-24 15:51:11.474942
+duration: 0.24097
+
+id: 2
+command: sn?
+response: 0TQ3GBG00SS131
+start time: 2025-04-24 15:51:12.833190
+end_time: 2025-04-24 15:51:12.971662
+duration: 0.138472
+
+id: 3
+command: mon
+response: ok
+start time: 2025-04-24 15:51:14.357459
+end_time: 2025-04-24 15:51:14.532226
+duration: 0.174767
+
+id: 4
+command: takeoff
+response: ok
+start time: 2025-04-24 15:51:14.547826
+end_time: 2025-04-24 15:51:20.593590
+duration: 6.045764
+
+id: 5
+command: go -50 0 80 60
+response: ok
+start time: 2025-04-24 15:51:20.634438
+end_time: 2025-04-24 15:51:23.839113
+duration: 3.204675
+
+id: 6
+command: flip l
+response: ok
+start time: 2025-04-24 15:51:23.951669
+end_time: 2025-04-24 15:51:27.529794
+duration: 3.578125
+
+id: 7
+command: land
+response: ok
+start time: 2025-04-24 15:51:27.601978
+end_time: 2025-04-24 15:51:31.105254
+duration: 3.503276
+

@@ -1,0 +1,106 @@
+------
+Drone: 1
+
+id: 0
+command: command
+response: ok
+start time: 2025-04-24 17:24:48.579295
+end_time: 2025-04-24 17:24:48.944513
+duration: 0.365218
+
+id: 1
+command: battery?
+response: 94
+
+start time: 2025-04-24 17:24:56.692045
+end_time: 2025-04-24 17:24:56.809800
+duration: 0.117755
+
+id: 2
+command: sn?
+response: 0TQ3GBG00SS131
+start time: 2025-04-24 17:24:58.194919
+end_time: 2025-04-24 17:24:58.327640
+duration: 0.132721
+
+id: 3
+command: mon
+response: ok
+start time: 2025-04-24 17:24:59.807640
+end_time: 2025-04-24 17:24:59.843515
+duration: 0.035875
+
+id: 4
+command: takeoff
+response: ok
+start time: 2025-04-24 17:24:59.858817
+end_time: 2025-04-24 17:25:04.697108
+duration: 4.838291
+
+id: 5
+command: go -50 0 80 60
+response: ok
+start time: 2025-04-24 17:25:06.353534
+end_time: 2025-04-24 17:25:09.538174
+duration: 3.18464
+
+id: 6
+command: land
+response: ok
+start time: 2025-04-24 17:25:09.625529
+end_time: 2025-04-24 17:25:14.385290
+duration: 4.759761
+
+------
+Drone: 2
+
+id: 0
+command: command
+response: ok
+start time: 2025-04-24 17:24:48.579302
+end_time: 2025-04-24 17:24:48.944910
+duration: 0.365608
+
+id: 1
+command: battery?
+response: 94
+
+start time: 2025-04-24 17:24:56.671617
+end_time: 2025-04-24 17:24:56.784115
+duration: 0.112498
+
+id: 2
+command: sn?
+response: 0TQZK8PED02YFL
+start time: 2025-04-24 17:24:58.189831
+end_time: 2025-04-24 17:24:58.296791
+duration: 0.10696
+
+id: 3
+command: mon
+response: ok
+start time: 2025-04-24 17:24:59.786978
+end_time: 2025-04-24 17:24:59.833316
+duration: 0.046338
+
+id: 4
+command: takeoff
+response: ok
+start time: 2025-04-24 17:24:59.843552
+end_time: 2025-04-24 17:25:06.296743
+duration: 6.453191
+
+id: 5
+command: go 50 0 80 60
+response: ok
+start time: 2025-04-24 17:25:06.327985
+end_time: 2025-04-24 17:25:09.348849
+duration: 3.020864
+
+id: 6
+command: land
+response: ok
+start time: 2025-04-24 17:25:09.620338
+end_time: 2025-04-24 17:25:14.395691
+duration: 4.775353
+
